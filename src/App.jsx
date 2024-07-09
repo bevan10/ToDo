@@ -100,7 +100,9 @@ function App() {
             editTask={editTask}
             toggleComplete={toggleComplete}
           />
-        </div>
+
+          
+        </div>    
       </div>
     </>
   );
